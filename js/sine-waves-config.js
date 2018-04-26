@@ -55,7 +55,7 @@ var waves = new SineWaves({
       gradient.addColorStop(0.5,"rgba(255, 255, 255, 0.5)");
       gradient.addColorStop(1,"rgba(0, 0, 0, 0)");
   
-      var index = -1;
+      var index = 1;
       var length = this.waves;
         while(++index < length){
         this.waves[index].strokeStyle = gradient;

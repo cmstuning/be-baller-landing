@@ -52,7 +52,8 @@ height: 24px;
 }
 .name{
     margin: 0px;
-    font-size: 2rem;
+    font-size: 30px;
+    font-weight: 400;
   
 }
 
@@ -77,21 +78,23 @@ height: 24px;
 margin-right: 25px;
 flex-direction: column;
 display: flex;
+font-size: 30px;
 }
-.digits{
-    font-weight: bold;
-    font-size: 2.5rem;
-}
+
 .letters{
     margin: 0px;
-    font-size: 1rem;
+    font-size: 12px;
+    font-weight: 300;
 }
 
 .my-text{
-    font-size: 2rem;
+    font-weight: 400;
+    font-size: 25px;
 }
 .let{
     margin-top: 12px;
+    font-size: 18px;
+    font-weight: 300;
 
 }
 .cop{
@@ -126,15 +129,18 @@ display: flex;
     width: 36px;
     height: 36px;
 }.name{
-    font-size: 2.5rem;
+    font-size: 30px;
    }
    .digits{
-    font-size: 4.5rem;
+    font-size: 45px;
 } 
 .letters{
-    font-size: 1.2rem;}
+    font-size: 18px;}
     .my-text{
-        font-size: 2.5rem;
+        font-size: 28px;
+    }
+    .let{
+        font-size: 22px;
     }
     .text1{
         margin-left: 15px;
@@ -161,16 +167,19 @@ display: flex;
     height: 48px;
 }
 .name{
-    font-size: 3.5rem;
+    font-size: 35px;
    } 
    .digits{
-    font-size: 5.5rem;
+    font-size: 55px;
 }
 .letters{
-    font-size: 1.5rem;
+    font-size: 22px;
+}
+.let{
+    font-size: 28px;
 }
 .my-text{
-    font-size: 3.5rem;
+    font-size: 32px;
 }
 .text1{
     margin-left: 15px;

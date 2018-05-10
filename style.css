@@ -93,7 +93,7 @@ font-size: 30px;
 }
 .let{
     margin-top: 12px;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 300;
 
 }
@@ -140,7 +140,7 @@ font-size: 30px;
         font-size: 28px;
     }
     .let{
-        font-size: 22px;
+        font-size: 20px;
     }
     .text1{
         margin-left: 15px;
@@ -163,8 +163,8 @@ font-size: 30px;
        height: 200px;
    }
 .icon{
-    width: 48px;
-    height: 48px;
+    width: 36px;
+    height: 36px;
 }
 .name{
     font-size: 35px;
@@ -176,7 +176,7 @@ font-size: 30px;
     font-size: 22px;
 }
 .let{
-    font-size: 28px;
+    font-size: 25px;
 }
 .my-text{
     font-size: 32px;

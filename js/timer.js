@@ -1,6 +1,7 @@
 
 
 (function () { 
+  
   var launchDate = new Date('2018-09-01T00:00:00').getTime();
   function Timer() {
     addZero = function (num) {
@@ -16,6 +17,8 @@
 
   }
 
+  Timer(); // call first time to itit values
   setInterval(Timer, 1000);
+  document.getElementById("countdown").style.visibility = 'visible';
 
 })();
